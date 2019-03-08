@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1493938077 source:c:\users\mediamarkt\desktop\textcalc\textcalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1494319576 source:c:\users\afran\desktop\textcalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+

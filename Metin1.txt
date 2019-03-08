@@ -1,0 +1,9 @@
+Ödevden tam puan alýnabilmesi için ödev metninde yer alan Proje ve Projenin yapýlmasý
+gerekmektedir
+Ödevler üçer kiþilik gruplar halinde yapýlacaktýr Grup üyeleri ayný öðretim üyesinden ders alan
+öðrenciler arasýndan seçilmek zorundadýr Zorunlu haller dýþýnda grup üye sayýsýnýn üç öðrenci
+olmasýna dikkat edilmelidir
+Ödevler dersi veren öðretim üyelerine e-posta yolu ile teslim edilecektir
+Son teslim tarihinden sonra teslim edilen ödevler deðerlendirmeye alýnmayacaktýr
+Farklý gruplarýn teslim ettikleri ödevler arasýnda kopya kontrolü yapýlacak ve kopya teslim edilen
+tüm gruplarýn Ödev notlarý sýfýr olarak deðerlendirilecektir
